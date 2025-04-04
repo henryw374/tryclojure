@@ -1,4 +1,4 @@
-{:paths ["src" "resources" "../src"]
+{:paths ["src" "docs" "../src"]
  :deps
  {markdown-clj/markdown-clj {:mvn/version "1.10.8"}
   metosin/reitit {:mvn/version "0.5.16"}

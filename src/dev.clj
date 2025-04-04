@@ -8,7 +8,7 @@
   ""
   []
   (->
-    (util/browser-app-config {:watch-dir  "resources/public"
+    (util/browser-app-config {:watch-dir  "docs/public"
                               :asset-path "/js"})
     (merge
       {:modules          {:main {:entries ['app.core]}}})))
